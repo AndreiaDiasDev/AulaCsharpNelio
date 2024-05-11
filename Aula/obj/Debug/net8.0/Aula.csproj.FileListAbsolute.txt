@@ -12,3 +12,4 @@ C:\Users\andre\Desktop\UDEMY-CSHARP\Aula\obj\Debug\net8.0\refint\Aula.dll
 C:\Users\andre\Desktop\UDEMY-CSHARP\Aula\obj\Debug\net8.0\Aula.pdb
 C:\Users\andre\Desktop\UDEMY-CSHARP\Aula\obj\Debug\net8.0\Aula.genruntimeconfig.cache
 C:\Users\andre\Desktop\UDEMY-CSHARP\Aula\obj\Debug\net8.0\ref\Aula.dll
+C:\Users\andre\Desktop\UDEMY-CSHARP\Aula\obj\Debug\net8.0\Aula.sourcelink.json
