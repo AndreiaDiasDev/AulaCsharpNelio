@@ -153,20 +153,56 @@ namespace Aula
             string p1 = p4[0];
             string p2 = p4[1];
             string p3 = p4[2];
-            */
+            
 
 
-            int n30 = int.Parse(Console.ReadLine());
+            int n30 = int.Parse(Console.ReadLine()); //int.parse tranforma em caractere
             char sexo30 = char.Parse(Console.ReadLine());
             double vconta = double.Parse(Console.ReadLine());
             
             Console.WriteLine(n30);
             Console.WriteLine(sexo30);
             Console.WriteLine(vconta);
-
+            
 
 
             Console.WriteLine("======================================================================");
+            */
+
+
+            string nome = "Digite seu nome";
+            Console.WriteLine(nome);
+            Console.ReadLine();
+
+
+            string qtquarto = "Digite quantidade de quartos";
+            Console.WriteLine(qtquarto);
+            Console.ReadLine();
+
+            string pproduto = "Digite o preço do produto";
+            Console.WriteLine(pproduto);
+            Console.ReadLine();
+
+            string frase = "Digite seu sobrenome, idade e altura";
+            Console.WriteLine(frase);
+            Console.ReadLine();
+
+
+
+                
+           
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }

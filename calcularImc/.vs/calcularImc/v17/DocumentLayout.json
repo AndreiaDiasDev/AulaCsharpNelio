@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\UDEMY-CSHARP\\Aula\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\UDEMY-CSHARP\\calcularImc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{003B3D8C-3DE1-48AD-A04F-BB4A467D5A96}|Aula.csproj|c:\\users\\andre\\desktop\\udemy-csharp\\aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003B3D8C-3DE1-48AD-A04F-BB4A467D5A96}|Aula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{341B06A3-C858-4C20-9CFE-972376128BD6}|calcularImc.csproj|c:\\users\\andre\\desktop\\udemy-csharp\\calcularimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341B06A3-C858-4C20-9CFE-972376128BD6}|calcularImc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\UDEMY-CSHARP\\Aula\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\UDEMY-CSHARP\\calcularImc\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\andre\\Desktop\\UDEMY-CSHARP\\Aula\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\UDEMY-CSHARP\\calcularImc\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAKAAAAAAAAAAAAAQwLwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T10:20:47.067Z",
+              "WhenOpened": "2024-05-16T23:54:33.99Z",
               "EditorCaption": ""
             }
           ]
