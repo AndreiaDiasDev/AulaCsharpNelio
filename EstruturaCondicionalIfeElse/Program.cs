@@ -42,7 +42,7 @@ namespace Estrutura
             {
                 Console.WriteLine("Você não pode votar pois é menor de idade, voce tem " + idade); Console.WriteLine("anos");
             }
-            */
+            
 
             //CLASSIFICAÇÃO DE NOTA
 
@@ -67,6 +67,26 @@ namespace Estrutura
             {
                 Console.WriteLine("Suficiente");
             }
+            */
+
+            Console.WriteLine("Digite a nota");
+            double nota = double.Parse(Console.ReadLine());
+
+            if (nota >= 7)
+            {
+                Console.WriteLine("Você está aprovado");
+            }
+
+            else if (nota < 7 && nota >=5)
+            {
+                Console.WriteLine(" Você está de recuperação");
+            }
+
+            else if (nota < 5)
+            {
+                Console.WriteLine("Reprovado");
+            }
+
 
         }
     }

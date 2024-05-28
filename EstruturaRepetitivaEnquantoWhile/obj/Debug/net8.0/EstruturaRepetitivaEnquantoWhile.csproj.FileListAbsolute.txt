@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.AssemblyInfo.cs
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.sourcelink.json
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\bin\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.exe
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\bin\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.deps.json
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\bin\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.runtimeconfig.json
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\bin\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.dll
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\bin\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.pdb
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.dll
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\refint\EstruturaRepetitivaEnquantoWhile.dll
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.pdb
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\EstruturaRepetitivaEnquantoWhile.genruntimeconfig.cache
+C:\Users\andre\Desktop\UDEMY-CSHARP\EstruturaRepetitivaEnquantoWhile\obj\Debug\net8.0\ref\EstruturaRepetitivaEnquantoWhile.dll
